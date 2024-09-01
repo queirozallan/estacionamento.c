@@ -54,14 +54,14 @@ O programa exibirá um menu com as seguintes opções:
 
 Estrutura do Código
 **Beco:** Estrutura que representa um beco do estacionamento.
-**FilaEspera:** Estrutura que representa a fila de espera para os carros.
-**Carro:** Estrutura que representa um carro, incluindo sua placa, número de manobras e se ficou na fila.
-**Funções principais:**
-**criarBeco():** Cria um novo beco.
-**criarFilaEspera():** Cria uma nova fila de espera.
-**entrarCarroBeco():** Adiciona um carro a um beco.
-**sairCarroBeco():** Remove um carro de um beco.
-**adicionarCarroFila():** Adiciona um carro à fila de espera.
-**removerCarroFila():** Remove um carro da fila de espera e tenta alocá-lo a um beco.
-**alocarCarroNaFilaSeTiverVaga():** Aloca carros da fila de espera se houver vagas disponíveis.
-**exibirEstadoEstacionamento():** Exibe o estado atual do estacionamento.
+-**FilaEspera:** Estrutura que representa a fila de espera para os carros.
+-**Carro:** Estrutura que representa um carro, incluindo sua placa, número de manobras e se ficou na fila.
+-**Funções principais:**
+-**criarBeco():** Cria um novo beco.
+-**criarFilaEspera():** Cria uma nova fila de espera.
+-**entrarCarroBeco():** Adiciona um carro a um beco.
+-**sairCarroBeco():** Remove um carro de um beco.
+-**adicionarCarroFila():** Adiciona um carro à fila de espera.
+-**removerCarroFila():** Remove um carro da fila de espera e tenta alocá-lo a um beco.
+-**alocarCarroNaFilaSeTiverVaga():** Aloca carros da fila de espera se houver vagas disponíveis.
+-**exibirEstadoEstacionamento():** Exibe o estado atual do estacionamento.
